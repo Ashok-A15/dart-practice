@@ -1,5 +1,4 @@
 void main(){
     int firstvalue=10;
-    int secondvalue=25;
    print(firstvalue);
 }
